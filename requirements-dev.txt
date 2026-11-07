@@ -1,0 +1,8 @@
+# Extra packages for development only. The deployed app does not need these.
+-r requirements.txt
+pytest==9.2.0
+# Used by scripts/verify_sources.py to check quotes against the official documents.
+pypdf==7.0.0
+requests==2.34.2
+# Used by scripts/build_solution_pdf.py.
+reportlab==5.1.0
