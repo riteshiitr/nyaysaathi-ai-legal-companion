@@ -1,0 +1,562 @@
+{
+  "schema_version": 1,
+  "last_reviewed": "2026-11-06",
+  "review_note": "Quotes were read from official documents by an AI assistant and checked by scripts/verify_sources.py. No qualified lawyer has reviewed this knowledge base.",
+  "documents": [
+    {
+      "id": "CPA2019",
+      "title": "The Consumer Protection Act, 2019 (35 of 2019)",
+      "issuer": "Parliament of India, via India Code",
+      "url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/15256/1/eng201935.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "ECOM2020",
+      "title": "Consumer Protection (E-Commerce) Rules, 2020, G.S.R. 462(E)",
+      "issuer": "Department of Consumer Affairs",
+      "url": "https://consumeraffairs.gov.in/public/upload/files/E%20commerce%20rules_1732703966.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "ECOM2026",
+      "title": "Consumer Protection (E-Commerce) (Amendment) Rules, 2026, G.S.R. 789(E)",
+      "issuer": "Department of Consumer Affairs",
+      "url": "https://consumeraffairs.gov.in/public/upload/files/E%20Commerce%20Amendment%20Rules%202026_1789127949.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "JUR2021",
+      "title": "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021, G.S.R. 912(E)",
+      "issuer": "Department of Consumer Affairs",
+      "url": "https://consumeraffairs.gov.in/public/upload/files/232278_1732705029.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "CDRC2023",
+      "title": "Consumer Protection (Consumer Disputes Redressal Commissions) (Amendment) Rules, 2023, G.S.R. 606(E)",
+      "issuer": "Department of Consumer Affairs",
+      "url": "https://consumeraffairs.gov.in/public/upload/files/CDRC%20Amendment%20Rules%202023-1_1732707073.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "DARK2023",
+      "title": "Guidelines for Prevention and Regulation of Dark Patterns, 2023",
+      "issuer": "Central Consumer Protection Authority",
+      "url": "https://consumeraffairs.gov.in/public/upload/files/The%20Guidelines%20for%20Prevention%20and%20Regulation%20of%20Dark%20Patterns,%202023_1732707717.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "ADS2022",
+      "title": "Guidelines for Prevention of Misleading Advertisements and Endorsements for Misleading Advertisements, 2022",
+      "issuer": "Central Consumer Protection Authority",
+      "url": "https://consumeraffairs.gov.in/public/upload/files/CCPA_Notification_1732707665.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "EJAGRITI-FLOW",
+      "title": "e-Jagriti: Consumer Complaint (CC) Workflow",
+      "issuer": "e-Jagriti platform, Department of Consumer Affairs",
+      "url": "https://e-jagriti.gov.in/static/media/CC_Flow.ff32ae9d2008d2eb0fc2.pdf",
+      "format": "pdf",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    },
+    {
+      "id": "NCH",
+      "title": "National Consumer Helpline: official website",
+      "issuer": "Department of Consumer Affairs",
+      "url": "https://consumerhelpline.gov.in/",
+      "format": "html",
+      "domain": "consumer",
+      "last_verified": "2026-11-06"
+    }
+  ],
+  "provisions": [
+    {
+      "id": "CPA2019-S2-7",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "2(7)",
+      "heading": "Who counts as a consumer",
+      "quote": "the expressions “buys any goods ” and “hires or avails any services ” includes offline or online transactions through electronic means or by teleshopping or direct selling or multi-level marketing",
+      "extra_quotes": [
+        "but does not include a person who obtains such goods for resale or for any commercial purpose",
+        "the expression “commercial purpose” does not include use by a person of goods bought and used by him exclusively for the purpose of earning his livelihood, by means of self-employment"
+      ],
+      "plain_language": "A person who buys goods or pays for a service is a consumer, whether the purchase was made online or offline. Someone who buys goods to resell them or for a commercial purpose is generally not a consumer, except when the goods are used only to earn a living through self-employment.",
+      "topics": ["who_can_complain", "ecommerce"],
+      "keywords": ["consumer", "online", "shopping", "offline", "buyer", "customer", "business", "resale", "grahak", "ग्राहक", "उपभोक्ता", "ऑनलाइन"]
+    },
+    {
+      "id": "CPA2019-S2-9",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "2(9)",
+      "heading": "Consumer rights",
+      "quote": "the right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers",
+      "extra_quotes": [
+        "the right to be informed about the quality, quantity, potency, purity, standard and price of goods, products or services"
+      ],
+      "plain_language": "The Act's list of consumer rights includes the right to be informed about the quality and price of goods and services, and the right to seek a remedy against unfair trade practices.",
+      "topics": ["rights"],
+      "keywords": ["rights", "right", "adhikar", "अधिकार", "redressal", "exploitation"]
+    },
+    {
+      "id": "CPA2019-S2-10",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "2(10)",
+      "heading": "Meaning of a defect in goods",
+      "quote": "“defect” means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied or as is claimed by the trader in any manner whatsoever in relation to any goods or product",
+      "plain_language": "A defect is a fault or shortcoming in the quality or quantity of goods, measured against what the law requires, what a contract promises, or what the trader claimed.",
+      "topics": ["defect", "warranty"],
+      "keywords": ["defect", "defective", "damaged", "broken", "faulty", "not working", "kharab", "khraab", "kharaab", "tuta", "खराब", "टूटा", "दोषपूर्ण", "phone", "mobile", "product", "quality"]
+    },
+    {
+      "id": "CPA2019-S2-11",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "2(11)",
+      "heading": "Meaning of a deficiency in service",
+      "quote": "“deficiency” means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service",
+      "plain_language": "A deficiency is a fault or inadequacy in how a service is performed, measured against what the law requires or what the provider undertook to do. Failing to deliver a promised service may fall within this meaning, depending on the facts.",
+      "topics": ["service_deficiency"],
+      "keywords": ["service", "deficiency", "promised", "not provided", "failed", "installation", "repair", "course", "travel", "seva", "सेवा", "वादा", "wada", "vaada", "nahi mili", "subscription"]
+    },
+    {
+      "id": "CPA2019-S2-28",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "2(28)",
+      "heading": "Meaning of a misleading advertisement",
+      "quote": "gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality of such product or service",
+      "extra_quotes": [
+        "falsely describes such product or service",
+        "deliberately conceals important information"
+      ],
+      "plain_language": "An advertisement can be misleading if it falsely describes a product or service, gives a false guarantee, is likely to mislead about its nature or quality, or deliberately hides important information.",
+      "topics": ["misleading_ad"],
+      "keywords": ["advertisement", "advert", "ad", "misleading", "false", "guarantee", "fake", "offer", "vigyapan", "विज्ञापन", "भ्रामक", "jhootha", "jhutha"]
+    },
+    {
+      "id": "CPA2019-S2-47-viii",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "2(47)(viii)",
+      "heading": "Refusing to take back defective goods or refund: an unfair trade practice",
+      "quote": "refusing, after selling goods or rendering services, to take back or withdraw defective goods or to withdraw or discontinue deficient services and to refund the consideration thereof, if paid, within the period stipulated in the bill or cash memo or receipt or in the absence of such stipulation, within a period of thirty days",
+      "plain_language": "Refusing to take back defective goods, or to stop deficient services, and refund the money is listed as an unfair trade practice. The time limit is the period stated in the bill or receipt. If none is stated, it is thirty days.",
+      "topics": ["refund", "defect", "service_deficiency", "unfair_trade_practice"],
+      "keywords": ["refund", "refused", "refuses", "refusing", "money", "return", "returned", "not received", "thirty", "days", "paisa", "paise", "wapas", "vapas", "wapsi", "nahi", "रिफंड", "वापस", "वापसी", "पैसा", "पैसे", "लौटाया", "मना", "replacement", "unfair"]
+    },
+    {
+      "id": "CPA2019-S34-2",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "34(2)",
+      "heading": "Which District Commission can hear the complaint",
+      "quote": "the complainant resides or personally works for gain",
+      "extra_quotes": [
+        "the cause of action, wholly or in part, arises",
+        "A complaint shall be instituted in a District Commission within the local limits of whose jurisdiction"
+      ],
+      "plain_language": "A complaint can be filed in the District Commission for the area where the opposite party lives or does business, where the cause of action arose in whole or part, or where the complainant lives or works.",
+      "topics": ["where_to_file"],
+      "keywords": ["where", "file", "district", "commission", "court", "city", "location", "jurisdiction", "kahan", "kaha", "कहां", "कहाँ", "जिला", "आयोग", "consumer court"]
+    },
+    {
+      "id": "CPA2019-S35-1",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "35(1)",
+      "heading": "Who can file a complaint, and filing electronically",
+      "quote": "Provided that the complaint under this sub -section may be filed electronically in such manner as may be prescribed",
+      "extra_quotes": [
+        "A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by"
+      ],
+      "plain_language": "A consumer can file a complaint about goods or services with a District Commission, and the Act allows complaints to be filed electronically.",
+      "topics": ["how_to_file", "who_can_complain"],
+      "keywords": ["complaint", "file", "filing", "online", "electronic", "how", "shikayat", "darj", "kaise", "शिकायत", "दर्ज", "कैसे", "consumer court", "case"]
+    },
+    {
+      "id": "CPA2019-S38-7",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "38(7)",
+      "heading": "How long the Commission aims to take",
+      "quote": "Every complaint shall be disposed of as expeditiously as possible and endeavour shall be made to decide the complaint within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities and within five months if it requires analysis or testing of commodities",
+      "plain_language": "The Commission should try to decide a complaint within three months of the opposite party receiving notice, or five months if goods need testing. This is a target, not a guarantee.",
+      "topics": ["timeline", "procedure"],
+      "keywords": ["how long", "time", "duration", "months", "decide", "kitna", "samay", "समय", "कितना", "takes"]
+    },
+    {
+      "id": "CPA2019-S39-1",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "39(1)",
+      "heading": "What the District Commission can order",
+      "quote": "to return to the complainant the price, or, as the case may be, the charges paid by the complainant along with such interest on such price or charges as may be decided",
+      "extra_quotes": [
+        "to replace the goods with new goods of similar description which shall be free from any defect",
+        "to remove the defects in goods or deficiencies in the services in question",
+        "to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party",
+        "to provide for adequate costs to parties"
+      ],
+      "plain_language": "If the complaint is proved, the Commission can order remedies such as repair, replacement, a refund with interest, compensation for loss caused by negligence, and costs. What it actually orders depends on the case.",
+      "topics": ["remedies", "refund", "defect"],
+      "keywords": ["remedy", "compensation", "interest", "replacement", "replace", "repair", "order", "get", "relief", "muavza", "muaavza", "मुआवजा", "ब्याज", "ब्याज", "hर्जाना", "harjana", "refund", "warranty"]
+    },
+    {
+      "id": "CPA2019-S41",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "41",
+      "heading": "Appeal against a District Commission order",
+      "quote": "Any person aggrieved by an order made by the District Commission may prefer an appeal against such order to the State Commission on the grounds of facts or law within a period of forty-five days from the date of the order",
+      "plain_language": "A person unhappy with a District Commission order may appeal to the State Commission within forty-five days of the order. The section contains further conditions, so a lawyer should be consulted about an appeal.",
+      "topics": ["appeal"],
+      "keywords": ["appeal", "state commission", "order", "against", "challenge", "apeel", "अपील"]
+    },
+    {
+      "id": "CPA2019-S69",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "69",
+      "heading": "Deadline for filing a complaint",
+      "quote": "The District Commission, the State Commission or the National Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen",
+      "extra_quotes": [
+        "a complaint may be entertained after the period specified in sub -section ( 1), if the complainant satisfies the District Commission, the State Commission or the National Commission, as the case may be, that he had sufficient cause for not filing the complaint within such period"
+      ],
+      "plain_language": "A complaint must generally be filed within two years from the date the cause of action arose. A late complaint may be accepted only if the Commission is satisfied there was sufficient cause for the delay. Working out the start date can be difficult, so check it with a lawyer if time may be short.",
+      "topics": ["deadline"],
+      "keywords": ["deadline", "limitation", "time limit", "two years", "late", "delay", "old", "years", "ago", "last date", "samay seema", "समय सीमा", "सीमा", "देरी", "saal", "साल", "purana"]
+    },
+    {
+      "id": "CPA2019-S71-72",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "72(1)",
+      "heading": "If an order is not obeyed",
+      "quote": "Whoever fails to comply with any order made by the District Commission or the State Commission or the National Commission, as the case may be, shall be punishable with imprisonment for a term which shall not be less than one month, but which may extend to three years, or with fine, which shall not be less than twenty -five thousand rupees, but which may extend to one lakh rupees, or with both",
+      "plain_language": "Failing to comply with a Consumer Commission's order is punishable with imprisonment, a fine, or both, within the limits stated in the section.",
+      "topics": ["enforcement"],
+      "keywords": ["not complying", "ignored order", "non-compliance", "enforce", "penalty", "punishment", "jail", "fine"]
+    },
+    {
+      "id": "CPA2019-S37-1",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "37(1)",
+      "heading": "Mediation",
+      "quote": "if it appears to the District Commission that there exists elements of a settlement which may be acceptable to the parties, except in such cases as may be prescribed, it may direct the parties to give in writing, within five days, consent to have their dispute settled by mediation",
+      "plain_language": "If a settlement looks possible, the District Commission may ask both sides whether they agree in writing to try mediation. Some cases are excluded.",
+      "topics": ["mediation", "procedure"],
+      "keywords": ["mediation", "settlement", "settle", "compromise", "samjhauta", "समझौता", "मध्यस्थता"]
+    },
+    {
+      "id": "CPA2019-S84-1",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "84(1)",
+      "heading": "Manufacturer's liability, including express warranty",
+      "quote": "the product does not conform to the express warranty",
+      "extra_quotes": [
+        "A product manufacturer shall be liable in a product liability action, if"
+      ],
+      "plain_language": "In a product liability action, a manufacturer can be liable if, among other grounds, the product does not conform to its express warranty. Product liability concerns harm caused by a product, so it may not fit every warranty dispute.",
+      "topics": ["warranty", "product_liability"],
+      "keywords": ["warranty", "guarantee", "manufacturer", "brand", "company", "express warranty", "product liability", "vaaranti", "warenty", "वारंटी", "गारंटी", "repair", "harm", "injury"]
+    },
+    {
+      "id": "CPA2019-S17",
+      "document_id": "CPA2019",
+      "ref_type": "section",
+      "ref": "17",
+      "heading": "Complaints to authorities about harm to consumers as a class",
+      "quote": "A complaint relating to violation of consumer rights or unfair trade practices or false or misleading advertisements which are prejudicial to the interests of consumers as a class, may be forwarded either in writing or in electronic mode",
+      "plain_language": "Complaints about consumer-rights violations, unfair trade practices, or misleading advertisements that harm consumers as a class can be sent to the authorities in writing or electronically.",
+      "topics": ["misleading_ad", "unfair_trade_practice", "how_to_file"],
+      "keywords": ["authority", "CCPA", "district collector", "regulator", "advertisement", "misleading", "many consumers", "class", "report"]
+    },
+    {
+      "id": "ECOM2020-R2-1",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "2(1)",
+      "heading": "What the E-Commerce Rules cover",
+      "quote": "all goods and services bought or sold over digital or electronic network including digital products",
+      "extra_quotes": [
+        "all models of e-commerce, including marketplace and inventory models of e-commerce"
+      ],
+      "plain_language": "The E-Commerce Rules apply to goods and services bought or sold online, including digital products, and to both marketplace and inventory models.",
+      "topics": ["ecommerce"],
+      "keywords": ["online", "ecommerce", "e-commerce", "website", "app", "marketplace", "shopping", "digital", "platform", "amazon", "flipkart", "ऑनलाइन"]
+    },
+    {
+      "id": "ECOM2020-R4-4",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "4(4)",
+      "heading": "Online platforms must have a grievance officer",
+      "quote": "Every e-commerce entity shall establish an adequate grievance redressal mechanism having regard to the number of grievances ordinarily received by such entity from India, and shall appoint a grievance officer for consumer grievance redressal, and shall display the name, contact details, and designation of such officer on its platform",
+      "plain_language": "Every online platform must have a way to handle complaints and must appoint a grievance officer, whose name, contact details and designation must be displayed on the platform. This is often where a written complaint can be sent first.",
+      "topics": ["ecommerce", "grievance_officer", "how_to_file"],
+      "keywords": ["grievance officer", "customer support", "customer care", "contact", "email", "complain to company", "ecommerce", "online", "shikayat adhikari", "शिकायत अधिकारी", "kisko", "whom"]
+    },
+    {
+      "id": "ECOM2020-R4-5",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "4(5)",
+      "heading": "Grievance officer's time limits (current wording)",
+      "quote": "Every e-commerce entity shall ensure that the grievance officer referred to in sub -rule (4) acknowledges the receipt of any consumer complaint within forty -eight hours and redresses the complaint within one month from the date of receipt of the complaint",
+      "plain_language": "A platform's grievance officer must acknowledge a consumer complaint within forty-eight hours and redress it within one month of receiving it.",
+      "superseded_from": "2027-01-01",
+      "topics": ["ecommerce", "grievance_officer", "timeline"],
+      "keywords": ["48 hours", "one month", "acknowledge", "no reply", "no response", "ignored", "customer support", "grievance", "ecommerce", "jawab nahi", "जवाब", "एक महीना", "mahina"]
+    },
+    {
+      "id": "ECOM2026-R4-5",
+      "document_id": "ECOM2026",
+      "ref_type": "rule",
+      "ref": "4(5)",
+      "heading": "Grievance officer's time limits (wording from 1 January 2027)",
+      "quote": "acknowledges the receipt of any consumer complaint within forty -eight hours, provides the complainant with a copy of the complaint as recorded by the grievance officer and redresses the complaint within one month from the date of receipt of the complaint",
+      "plain_language": "From 1 January 2027, the grievance officer must also give the complainant a copy of the complaint as recorded. The forty-eight hour and one month limits stay the same.",
+      "in_force_from": "2027-01-01",
+      "topics": ["ecommerce", "grievance_officer", "timeline"],
+      "keywords": ["48 hours", "one month", "acknowledge", "copy of complaint", "no reply", "no response", "grievance", "ecommerce", "2027", "जवाब"]
+    },
+    {
+      "id": "ECOM2026-COMMENCEMENT",
+      "document_id": "ECOM2026",
+      "ref_type": "rule",
+      "ref": "1(2)",
+      "heading": "When the 2026 amendment starts",
+      "quote": "They shall come into force with effect from 1st January, 2027.",
+      "verification": "visual_check",
+      "verification_note": "The PDF's text layer loses these digits, so this line was read from a rendered image of Gazette page 5.",
+      "plain_language": "The 2026 amendment to the E-Commerce Rules starts on 1 January 2027. Until then, the earlier wording applies.",
+      "topics": ["ecommerce"],
+      "keywords": ["amendment", "2026", "2027", "new rules", "commencement"]
+    },
+    {
+      "id": "ECOM2020-R4-8",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "4(8)",
+      "heading": "Cancellation charges",
+      "quote": "No e -commerce entity shall impose cancellation charges on consumers cancelling after confirming purchase unless similar charges are also borne by the e - commerce entity, if they cancel the purchase order unilaterally for any reason",
+      "plain_language": "An online platform cannot charge a consumer for cancelling after confirming a purchase, unless the platform also bears similar charges when it cancels an order on its own.",
+      "topics": ["cancellation", "ecommerce", "refund"],
+      "keywords": ["cancel", "cancelled", "cancellation", "charges", "fee", "order", "deducted", "booking", "radd", "रद्द", "cancel kiya", "कैंसिल"]
+    },
+    {
+      "id": "ECOM2020-R4-9",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "4(9)",
+      "heading": "Consent to purchases must be explicit",
+      "quote": "Every e-commerce entity shall only record the consent of a consumer for the purchase of any good or service offered on its platform where such consent is expressed through an explicit and affirmative action, and no such entity shall record such consent automatically, including in the form of pre -ticked checkboxes",
+      "plain_language": "An online platform may record consent to a purchase only through a clear action by the consumer, and not automatically, for example through a pre-ticked box.",
+      "topics": ["unauthorized_charge", "ecommerce", "subscription"],
+      "keywords": ["consent", "pre-ticked", "checkbox", "without permission", "unauthorized", "unauthorised", "charged", "wrong charge", "auto", "bina", "permission", "बिना", "अनुमति", "add-on"]
+    },
+    {
+      "id": "ECOM2020-R4-10",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "4(10)",
+      "heading": "Paying accepted refunds",
+      "quote": "Every e-commerce entity shall effect all payments towards accepted refund requests of the consumers as prescribed by the Reserve Bank of India or any other competent authority under any law for the time being in force, within a reasonable period of time, or as prescribed under applicable laws",
+      "plain_language": "Once a refund request is accepted, an online platform must pay it within a reasonable time, or within the time set by the Reserve Bank of India or other applicable law. This rule does not itself state a fixed number of days.",
+      "topics": ["refund", "ecommerce"],
+      "keywords": ["refund", "accepted", "approved", "not received", "pending", "delay", "days", "reasonable", "online", "money", "paisa", "wapas", "nahi aaya", "रिफंड", "पैसा", "वापस", "नहीं"]
+    },
+    {
+      "id": "ECOM2020-R5-3-a",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "5(3)(a)",
+      "heading": "Getting the seller's details from a marketplace",
+      "quote": "a marketplace e -commerce entity shall, on a request in writing made by a consumer after the purchase of any goods or services on its platform by such consumer, provide him with information regarding the seller from which such consumer has made such purchase",
+      "plain_language": "After a purchase, a consumer can ask a marketplace in writing for the seller's details, so that the consumer can contact the seller to resolve the dispute.",
+      "topics": ["ecommerce", "seller_details"],
+      "keywords": ["seller", "seller details", "address", "marketplace", "who is the seller", "third party", "vikreta", "विक्रेता", "bechne wala"]
+    },
+    {
+      "id": "ECOM2020-R5-3-b",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "5(3)(b)",
+      "heading": "Ticket number for complaints",
+      "quote": "a ticket number for each complaint lodged through which the consumer can track the status of the complaint",
+      "plain_language": "A marketplace must provide a ticket number for each complaint, so the consumer can track its status. Keep this number as evidence.",
+      "topics": ["ecommerce", "evidence", "grievance_officer"],
+      "keywords": ["ticket", "ticket number", "track", "complaint number", "reference", "marketplace", "evidence", "proof", "सबूत"]
+    },
+    {
+      "id": "ECOM2020-R6-3",
+      "document_id": "ECOM2020",
+      "ref_type": "rule",
+      "ref": "6(3)",
+      "heading": "Marketplace sellers cannot refuse returns or refunds in these cases",
+      "quote": "No seller offering goods or services through a marketplace e -commerce entity shall refuse to take back goods, or withdraw or discontinue services purchased or agreed to be purchased, or refuse to refund consideration, if paid, if such goods or services are defective, deficient or spurious, or if the goods or services are not of the characteristics or features as advertised or as agreed to, or if such goods or services are delivered late from the stated delivery schedule",
+      "extra_quotes": [
+        "Provided that in the case of late delivery, this sub -rule shall not be applied if such late delivery was due to force majeure"
+      ],
+      "plain_language": "A marketplace seller must not refuse to take back goods or refund the money if the goods or services are defective, deficient, spurious, different from what was advertised or agreed, or delivered late. Late delivery caused by force majeure is an exception.",
+      "topics": ["refund", "defect", "ecommerce", "service_deficiency"],
+      "keywords": ["seller", "refuse", "refused", "refusing", "return", "refund", "replacement", "defective", "damaged", "wrong item", "fake", "spurious", "late delivery", "as advertised", "kharab", "mana", "wapas", "खराब", "मना", "वापस", "रिफंड", "online"]
+    },
+    {
+      "id": "JUR2021-R3",
+      "document_id": "JUR2021",
+      "ref_type": "rule",
+      "ref": "3",
+      "heading": "District Commission's value limit",
+      "quote": "the District Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration does not exceed fifty lakh rupees",
+      "plain_language": "The District Commission hears complaints where the amount paid for the goods or services is up to fifty lakh rupees. This replaced the higher limit originally written in section 34 of the Act.",
+      "topics": ["where_to_file", "jurisdiction_value"],
+      "keywords": ["which commission", "district commission", "fifty lakh", "value", "amount", "limit", "court", "jurisdiction", "kaunsa", "जिला आयोग", "consumer court"]
+    },
+    {
+      "id": "JUR2021-R4",
+      "document_id": "JUR2021",
+      "ref_type": "rule",
+      "ref": "4",
+      "heading": "State Commission's value limit",
+      "quote": "the State Commission shall have jurisdiction to entertain complaints where the value of the goods or services paid as consideration exceeds fifty lakh but does not exceed two crore rupees",
+      "plain_language": "The State Commission hears complaints where the amount paid is above fifty lakh rupees and up to two crore rupees.",
+      "topics": ["where_to_file", "jurisdiction_value"],
+      "keywords": ["state commission", "two crore", "fifty lakh", "value", "amount", "limit", "राज्य आयोग", "crore", "करोड़"]
+    },
+    {
+      "id": "CDRC2023-R7-FEE",
+      "document_id": "CDRC2023",
+      "ref_type": "rule",
+      "ref": "7",
+      "heading": "Fee for filing a complaint",
+      "quote": "Upto Rupees Five Lakh Nil",
+      "extra_quotes": [
+        "Above Rupees Five Lakh and upto Rupees Ten Lakh Rs. 200",
+        "Above Rupees Ten Lakh and upto Rupees Twenty Lakh Rs. 400",
+        "Above Rupees Twenty Lakh and upto Rupees Fifty Lakh Rs. 1000",
+        "Above Rupees Fifty Lakh and upto Rupees One Crore Rs. 2000",
+        "Above Rupees One Crore and upto Rupees Two Crore Rs. 2500"
+      ],
+      "plain_language": "The filing fee depends on the amount paid for the goods or services: no fee up to Rs. 5 lakh, Rs. 200 up to Rs. 10 lakh, Rs. 400 up to Rs. 20 lakh, Rs. 1,000 up to Rs. 50 lakh, Rs. 2,000 up to Rs. 1 crore and Rs. 2,500 up to Rs. 2 crore. Higher bands are in the rule. Check the fee shown on e-Jagriti before filing.",
+      "topics": ["fee", "how_to_file"],
+      "keywords": ["fee", "fees", "cost", "charge", "how much", "free", "payment", "lagega", "kitna", "kitni", "paisa", "फीस", "शुल्क", "कितना", "कितनी", "कितने", "lakh", "filing fee"]
+    },
+    {
+      "id": "DARK2023-G4",
+      "document_id": "DARK2023",
+      "ref_type": "guideline",
+      "ref": "4",
+      "heading": "Dark patterns are prohibited",
+      "quote": "No person, including any platform, shall engage in any dark pattern practice",
+      "plain_language": "No person or platform may use a dark pattern, meaning a deceptive design practice listed in the Guidelines' annexure.",
+      "topics": ["subscription", "unfair_trade_practice", "unauthorized_charge"],
+      "keywords": ["dark pattern", "trick", "deceptive", "design", "hidden", "platform", "app", "website", "subscription"]
+    },
+    {
+      "id": "DARK2023-SUBSCRIPTION-TRAP",
+      "document_id": "DARK2023",
+      "ref_type": "annexure",
+      "ref": "1 (subscription trap)",
+      "heading": "Subscription trap",
+      "quote": "making cancellation of a paid subscription impossible or a complex and lengthy process",
+      "extra_quotes": [
+        "hiding the cancellation option for a subscription",
+        "forcing a user to provide payment details or authorization for auto debits for availing a free subscription"
+      ],
+      "plain_language": "The Guidelines' list of dark patterns includes making it impossible or very difficult to cancel a paid subscription, hiding the cancel option, and forcing auto-debit authorisation for a free subscription.",
+      "topics": ["subscription", "cancellation"],
+      "keywords": ["subscription", "cancel", "cancelled", "auto debit", "autodebit", "auto-debit", "recurring", "membership", "renewal", "deducted", "free trial", "gym", "app", "ott", "सदस्यता", "ऑटो", "kat raha", "katna", "कट", "कटौती"]
+    },
+    {
+      "id": "DARK2023-SAAS-BILLING",
+      "document_id": "DARK2023",
+      "ref_type": "annexure",
+      "ref": "1 (SaaS billing)",
+      "heading": "Silent recurring charges (SaaS billing)",
+      "quote": "silent recurring transactions whereby the user’s account is debited without being notified or simply stated auto-renewing monthly subscriptions without telling users",
+      "extra_quotes": [
+        "no notification is given to the user when free trial is converted to paid"
+      ],
+      "plain_language": "The Guidelines give examples of this dark pattern, including debiting a user's account for recurring charges without notice, and converting a free trial to paid without notice. The definition concerns software-as-a-service billing.",
+      "topics": ["subscription", "unauthorized_charge"],
+      "keywords": ["recurring", "auto debit", "autodebit", "auto-debit", "repeated deductions", "deducted", "charged again", "monthly", "free trial", "without notice", "renewal", "subscription", "bina bataye", "बिना बताए", "kat raha", "कट"]
+    },
+    {
+      "id": "ADS2022-G4-1",
+      "document_id": "ADS2022",
+      "ref_type": "guideline",
+      "ref": "4(1)",
+      "heading": "When an advertisement is valid",
+      "quote": "it contains truthful and honest representation",
+      "extra_quotes": [
+        "An advertisement shall be considered to be valid and not misleading, if"
+      ],
+      "plain_language": "One of the listed conditions for an advertisement to be valid and not misleading is that it contains a truthful and honest representation.",
+      "topics": ["misleading_ad"],
+      "keywords": ["advertisement", "advert", "ad", "misleading", "false", "claim", "truthful", "vigyapan", "विज्ञापन"]
+    },
+    {
+      "id": "EJAGRITI-LIMITATION-DOCS",
+      "document_id": "EJAGRITI-FLOW",
+      "ref_type": "procedure",
+      "ref": "Consumer Complaint workflow",
+      "heading": "Filing on e-Jagriti: documents listed in the official workflow",
+      "quote": "Mandatory Documents -Index -Proforma for Filing CC -Synopsis with List of Dates and Events -Memo of Parties -CC with Notarised affidavit -Add Annexures / Documents -Add Application (IA) -Vakalatnama",
+      "extra_quotes": [
+        "Filed within the period of 2 Yrs of cause of action"
+      ],
+      "plain_language": "The official e-Jagriti workflow lists the documents for filing a consumer complaint, including a synopsis with dates and events, a memo of parties and a notarised affidavit. Check the portal's current list, because it may change.",
+      "topics": ["how_to_file", "procedure", "evidence"],
+      "keywords": ["e-jagriti", "ejagriti", "portal", "online filing", "documents", "affidavit", "notarised", "how to file", "edaakhil", "e-daakhil", "dastavez", "दस्तावेज", "consumer court", "ई-जागृति", "kaise", "कैसे"]
+    },
+    {
+      "id": "NCH-CONTACT",
+      "document_id": "NCH",
+      "ref_type": "procedure",
+      "ref": "Helpline contact details",
+      "heading": "National Consumer Helpline: how to reach it",
+      "quote": "Toll Free 1915 (8AM to 8PM)",
+      "extra_quotes": [
+        "WhatsApp +918800001915",
+        "Call National Consumer Helpline at 1915 or 1800114000",
+        "Register your consumer grievance through the NCH Web Portal, Mobile App, UMANG, WhatsApp or Call Centre."
+      ],
+      "plain_language": "The National Consumer Helpline can be reached on toll-free 1915 (8 AM to 8 PM) or 1800114000, or on WhatsApp at +918800001915. A grievance can be registered through its web portal, mobile app, UMANG, WhatsApp or call centre.",
+      "topics": ["helpline", "how_to_file"],
+      "keywords": ["helpline", "1915", "NCH", "national consumer helpline", "phone", "call", "whatsapp", "complain", "shikayat", "number", "हेल्पलाइन", "शिकायत", "नंबर", "free", "first step"]
+    },
+    {
+      "id": "NCH-PROCESS",
+      "document_id": "NCH",
+      "ref_type": "procedure",
+      "ref": "How NCH works",
+      "heading": "What happens after you contact the helpline",
+      "quote": "NCH processes the grievance and forwards it to the concerned company, department or organization.",
+      "plain_language": "The helpline forwards the grievance to the company or department concerned, which then reviews it and responds. The page does not say that the helpline can order a company to pay.",
+      "topics": ["helpline", "procedure"],
+      "keywords": ["helpline", "NCH", "what happens", "process", "company reply", "track", "grievance", "हेल्पलाइन", "शिकायत"]
+    }
+  ]
+}
