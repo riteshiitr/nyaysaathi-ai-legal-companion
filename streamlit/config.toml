@@ -1,0 +1,53 @@
+[theme]
+base = "light"
+primaryColor = "#A67C52"
+backgroundColor = "#F3EBDD"
+secondaryBackgroundColor = "#E5DDCE"
+textColor = "#292D26"
+linkColor = "#7A5A38"
+borderColor = "#D8CEBD"
+showWidgetBorder = true
+showSidebarBorder = false
+baseRadius = "3px"
+buttonRadius = "3px"
+font = "'Source Sans', 'Noto Sans Devanagari', sans-serif"
+headingFont = "'Source Serif 4', 'Noto Serif Devanagari', serif"
+codeBackgroundColor = "#E5DDCE"
+codeTextColor = "#292D26"
+
+# Streamlit's built-in alerts and icons take these instead of its default bright colours.
+redColor = "#934B40"
+redBackgroundColor = "#F3E3DC"
+redTextColor = "#7D3D33"
+orangeColor = "#9A6A2F"
+orangeBackgroundColor = "#F3E6CF"
+orangeTextColor = "#6A4A20"
+yellowColor = "#9A6A2F"
+yellowBackgroundColor = "#F3E6CF"
+yellowTextColor = "#6A4A20"
+greenColor = "#416747"
+greenBackgroundColor = "#E3E9DC"
+greenTextColor = "#2F4E36"
+blueColor = "#465C4B"
+blueBackgroundColor = "#E5DDCE"
+blueTextColor = "#34483A"
+violetColor = "#7A5A38"
+violetBackgroundColor = "#EFE3D2"
+violetTextColor = "#7A5A38"
+grayColor = "#716D63"
+grayBackgroundColor = "#E5DDCE"
+grayTextColor = "#5F5B52"
+
+[theme.sidebar]
+primaryColor = "#C9A67E"
+backgroundColor = "#34483A"
+secondaryBackgroundColor = "#465C4B"
+textColor = "#F3EBDD"
+linkColor = "#D9B98D"
+borderColor = "#5F7464"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
